@@ -8,4 +8,6 @@ function lastImageSelector(){
 function ninjaBabySelector(){
   return $( "#ninjaBabySelector" )
 }
-function 
+function divSelector (){
+  return $( ".pics" )
+}
