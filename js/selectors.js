@@ -2,4 +2,6 @@
 function paragraphSelecto(){
  return $( "p" ) 
 }
-function 
+function lastImageSelector(){
+  return $( "p" ) 
+}
