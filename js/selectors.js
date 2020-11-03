@@ -3,5 +3,6 @@ function paragraphSelecto(){
  return $( "p" ) 
 }
 function lastImageSelector(){
-  return $( "p" ) 
+  return $( "div img:last" ) 
 }
+function 
