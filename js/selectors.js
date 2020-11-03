@@ -2,3 +2,4 @@
 $('.pics')
 $('img')
 $('#baby-ninja')
+$('ul li')
