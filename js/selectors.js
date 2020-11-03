@@ -1,5 +1,5 @@
 // declare your functions here...
-function paragraphSelecto(){
+function paragraphSelector(){
  return $( "p" ) 
 }
 function lastImageSelector(){
